@@ -1,0 +1,10 @@
+{
+  "name": "music-player-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "zingmp3-api-full": "^1.0.9"
+  }
+}
